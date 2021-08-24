@@ -8,7 +8,7 @@ The project started in July 2021 by [mikerabs](https://github.com/mikerabs) and 
 
 ---
 
-For more information, feel free to read the our [report](docs/report.pdf).
+For more information, feel free to read the our [report](report.pdf).
 
 ## Idea
 The idea is as follows:
