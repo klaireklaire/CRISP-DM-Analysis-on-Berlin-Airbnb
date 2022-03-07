@@ -37,4 +37,4 @@ To prepare the training and test sets follow this procedure:
 - Do not change the names of the data files, this could provoke problems in the code.
 
 ## Licensing
-- There is no licence. Don't hesitate to use my library. It is straight forward to use and if you use it, please give me feedback.
+- There is no licence. 
