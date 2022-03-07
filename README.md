@@ -8,7 +8,7 @@ The project started in July 2021 by [mikerabs](https://github.com/mikerabs) and 
 
 ---
 
-For more information, feel free to read the our [report](report.pdf).
+For more information, feel free to read our [report](report.pdf).
 
 ## Idea
 The idea is as follows:
@@ -29,7 +29,7 @@ The idea is as follows:
 ## Training:
 To prepare the training and test sets follow this procedure:
 
-1. Download the dataset in pdf from [Kaggle](https://www.kaggle.com/brittabettendorf/berlin-airbnb-data) and save them in the same folder as the r-code file. Only listings.csv and listings_summary.csv are needed for this implementation. 
+1. Download the dataset from [Kaggle](https://www.kaggle.com/brittabettendorf/berlin-airbnb-data) and save them in the same folder as the r-code file. Only listings.csv and listings_summary.csv are needed for this implementation. 
 2. Run and knit the r-code file on RStudio.
 	- **Note**: This will produce the same report as the file we include here. 
 	
